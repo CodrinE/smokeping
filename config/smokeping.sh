@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/ash
 
 echo "Starting smokeping"
 smokeping --config=/etc/smokeping/config --debug-daemon 
